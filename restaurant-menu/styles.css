@@ -1,0 +1,26 @@
+
+dd::before{
+    content: "- ";
+}
+
+dd {
+    margin-bottom: 20px;
+}
+
+dt{
+    font-size: 18px;
+}
+
+
+.category {
+    font-style: italic;
+    color: darkgreen;
+}
+
+.menu_items {
+    padding-left: 20px;
+}
+
+.price {
+    padding-left: 30px;
+}

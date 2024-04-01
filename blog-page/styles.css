@@ -1,0 +1,16 @@
+.header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    background-color: beige;
+}
+
+div {
+    margin: 30px;
+    padding: 20px;
+}
+
+p {
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 462px;
+    line-height: 1.5;
+}
